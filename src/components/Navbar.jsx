@@ -54,13 +54,13 @@ function Navbar() {
       {isMenuOpen && (
         <ul className="flex flex-col items-center gap-8 pb-4 font-semibold">
           <li>
-              <Link className="hover:text-fadedbrown" to="/">home</Link>
+              <Link className="hover:text-fadedbrown" to="/" onClick={toggleMenu}>home</Link>
             </li>
             <li>
-              <Link className="hover:text-fadedbrown" to="/search">search</Link>
+              <Link className="hover:text-fadedbrown" to="/search" onClick={toggleMenu}>search</Link>
             </li>
           <li>
-            <Link className="hover:text-fadedbrown" to="/bestsellers">
+            <Link className="hover:text-fadedbrown" to="/bestsellers" onClick={toggleMenu}>
               bestsellers
             </Link>
           </li>
