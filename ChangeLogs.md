@@ -27,3 +27,13 @@
 
 - Added the footer
 - Update the UI elements
+
+### Updates6:
+
+- Responsive design improved
+- Fixing 404 Vecel bug but configuring using a json file
+
+### Updates7:
+
+- Bestsellers List created
+

@@ -1,0 +1,203 @@
+[
+    {
+      "title": "Where the Crawdads Sing",
+      "author": "Delia Owens",
+      "year": 2019,
+      "genre": "Fiction",
+      "publisher": "Putnam",
+      "coverImage": "https://res.cloudinary.com/dv841e9r7/image/upload/v1736631966/Where_the_Crawdads_Sing_k2znlj.jpg"
+    },
+    {
+      "title": "The Silent Patient",
+      "author": "Alex Michaelides",
+      "year": 2019,
+      "genre": "Thriller",
+      "publisher": "Celadon",
+      "coverImage": "https://res.cloudinary.com/dv841e9r7/image/upload/v1736631966/The_Silent_Patient_kefqew.png"
+    },
+    {
+      "title": "Educated",
+      "author": "Tara Westover",
+      "year": 2019,
+      "genre": "Memoir",
+      "publisher": "Random House",
+      "coverImage": "https://res.cloudinary.com/dv841e9r7/image/upload/v1736631966/Educated_ffe0v5.jpg"
+    },
+    {
+      "title": "Atomic Habits",
+      "author": "James Clear",
+      "year": 2019,
+      "genre": "Self-help",
+      "publisher": "Penguin",
+      "coverImage": "https://res.cloudinary.com/dv841e9r7/image/upload/v1736631966/Atomic_Habits_uczsjy.jpg"
+    },
+    {
+      "title": "Becoming",
+      "author": "Michelle Obama",
+      "year": 2019,
+      "genre": "Memoir",
+      "publisher": "Crown",
+      "coverImage": "https://res.cloudinary.com/dv841e9r7/image/upload/v1736631966/Becoming_j1iewg.jpg"
+    },
+    {
+      "title": "The Vanishing Half",
+      "author": "Brit Bennett",
+      "year": 2020,
+      "genre": "Fiction",
+      "publisher": "Riverhead",
+      "coverImage": "https://res.cloudinary.com/dv841e9r7/image/upload/v1736631969/The_Vanishing_Half_uvz1va.jpg"
+    },
+    {
+      "title": "The Midnight Library",
+      "author": "Matt Haig",
+      "year": 2020,
+      "genre": "Fiction",
+      "publisher": "Viking",
+      "coverImage": "https://res.cloudinary.com/dv841e9r7/image/upload/v1736631969/The_Midnight_Library_s28qjv.jpg"
+    },
+    {
+      "title": "A Promised Land",
+      "author": "Barack Obama",
+      "year": 2020,
+      "genre": "Memoir",
+      "publisher": "Crown",
+      "coverImage": "https://res.cloudinary.com/dv841e9r7/image/upload/v1736631966/A_Promised_Land_ek3lb8.jpg"
+    },
+    {
+      "title": "Untamed",
+      "author": "Glennon Doyle",
+      "year": 2020,
+      "genre": "Self-help",
+      "publisher": "Dial Press",
+      "coverImage": "https://res.cloudinary.com/dv841e9r7/image/upload/v1736631970/Untamed_y71jdn.jpg"
+    },
+    {
+      "title": "It Ends with Us",
+      "author": "Colleen Hoover",
+      "year": 2020,
+      "genre": "Romance",
+      "publisher": "Atria",
+      "coverImage": "https://res.cloudinary.com/dv841e9r7/image/upload/v1736631967/It_Ends_with_Us_vj724f.jpg"
+    },
+    {
+      "title": "Project Hail Mary",
+      "author": "Andy Weir",
+      "year": 2021,
+      "genre": "Science Fiction",
+      "publisher": "Ballantine",
+      "coverImage": "https://res.cloudinary.com/dv841e9r7/image/upload/v1736631967/Project_Hail_Mary_yjozvs.jpg"
+    },
+    {
+      "title": "The Four Winds",
+      "author": "Kristin Hannah",
+      "year": 2021,
+      "genre": "Historical Fiction",
+      "publisher": "St. Martin's",
+      "coverImage": "https://res.cloudinary.com/dv841e9r7/image/upload/v1736631969/The_Four_Winds_hfn9nz.jpg"
+    },
+    {
+      "title": "The Last Thing He Told Me",
+      "author": "Laura Dave",
+      "year": 2021,
+      "genre": "Thriller",
+      "publisher": "Simon & Schuster",
+      "coverImage": "https://res.cloudinary.com/dv841e9r7/image/upload/v1736631969/The_Last_Thing_He_Told_Me_qpncrd.jpg"
+    },
+    {
+      "title": "People We Meet on Vacation",
+      "author": "Emily Henry",
+      "year": 2021,
+      "genre": "Romance",
+      "publisher": "Berkley",
+      "coverImage": "https://res.cloudinary.com/dv841e9r7/image/upload/v1736631967/People_We_Meet_on_Vacation_y0ahc3.jpg"
+    },
+    {
+      "title": "The Lincoln Highway",
+      "author": "Amor Towles",
+      "year": 2021,
+      "genre": "Fiction",
+      "publisher": "Viking",
+      "coverImage": "https://res.cloudinary.com/dv841e9r7/image/upload/v1736631969/The_Lincoln_Highway_nwqlyf.jpg"
+    },
+    {
+      "title": "It Starts with Us",
+      "author": "Colleen Hoover",
+      "year": 2022,
+      "genre": "Romance",
+      "publisher": "Atria",
+      "coverImage": "https://res.cloudinary.com/dv841e9r7/image/upload/v1736631966/It_Starts_with_Us_fdzgux.jpg"
+    },
+    {
+      "title": "Lessons in Chemistry",
+      "author": "Bonnie Garmus",
+      "year": 2022,
+      "genre": "Fiction",
+      "publisher": "Doubleday",
+      "coverImage": "https://res.cloudinary.com/dv841e9r7/image/upload/v1736631967/Lessons_in_Chemistry_aeat0z.jpg"
+    },
+    {
+      "title": "Reminders of Him",
+      "author": "Colleen Hoover",
+      "year": 2022,
+      "genre": "Romance",
+      "publisher": "Montlake",
+      "coverImage": "https://res.cloudinary.com/dv841e9r7/image/upload/v1736631967/Reminders_of_Him_b7loev.jpg"
+    },
+    {
+      "title": "Tomorrow, and Tomorrow, and Tomorrow",
+      "author": "Gabrielle Zevin",
+      "year": 2022,
+      "genre": "Fiction",
+      "publisher": "Knopf",
+      "coverImage": "https://res.cloudinary.com/dv841e9r7/image/upload/v1736631970/Tomorrow_and_Tomorrow_and_Tomorrow_chbjzp.jpg"
+    },
+    {
+      "title": "Spare",
+      "author": "Prince Harry",
+      "year": 2023,
+      "genre": "Memoir",
+      "publisher": "Penguin",
+      "coverImage": "https://res.cloudinary.com/dv841e9r7/image/upload/v1736631967/Spare_l1vjen.jpg"
+    },
+    {
+      "title": "The Covenant of Water",
+      "author": "Abraham Verghese",
+      "year": 2024,
+      "genre": "Fiction",
+      "publisher": "Grove Press",
+      "coverImage": "https://res.cloudinary.com/dv841e9r7/image/upload/v1736631968/The_Covenant_of_Water_bhmhfj.jpg"
+    },
+    {
+      "title": "Trust",
+      "author": "Hernan Diaz",
+      "year": 2024,
+      "genre": "Historical Fiction",
+      "publisher": "Riverhead",
+      "coverImage": "https://res.cloudinary.com/dv841e9r7/image/upload/v1736631972/Trust_jjedpj.jpg"
+    },
+    {
+      "title": "Tomorrow Will Be Different",
+      "author": "Sarah McBride",
+      "year": 2024,
+      "genre": "Memoir",
+      "publisher": "Crown",
+      "coverImage": "https://res.cloudinary.com/dv841e9r7/image/upload/v1736631972/Tomorrow_Will_Be_Different_bkpf49.jpg"
+    },
+    {
+      "title": "Quietly Hostile",
+      "author": "Samantha Irby",
+      "year": 2024,
+      "genre": "Humor",
+      "publisher": "Vintage",
+      "coverImage": "https://res.cloudinary.com/dv841e9r7/image/upload/v1736631970/Quietly_Hostile_i3ieay.jpg"
+    },
+    {
+      "title": "The Creative Act: A Way of Being",
+      "author": "Rick Rubin",
+      "year": 2024,
+      "genre": "Self-help",
+      "publisher": "Penguin",
+      "coverImage": "https://res.cloudinary.com/dv841e9r7/image/upload/v1736631971/The_Creative_Act_woun8e.jpg"
+    }
+  ]
+  

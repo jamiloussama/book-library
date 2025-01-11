@@ -37,12 +37,11 @@ function BookDetails({ book, onClose }) {
         {/* Book Title */}
         <h2 className="text-4xl font-bold mb-4 text-primary">{book.title}</h2>
         {/* Description */}
-        {book.description && (
           <div className="mt-6">
             <h3 className="text-2xl font-semibold mb-2">Description</h3>
             <p>{getDescription()}</p>
           </div>
-        )}
+        
 
         {/* Author(s) */}
         <p className="mb-2">

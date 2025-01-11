@@ -32,7 +32,7 @@ function Navbar() {
               <Link className="hover:text-fadedbrown" to="/search">search</Link>
             </li>
             <li>
-              <a className="hover:text-fadedbrown" href="#">
+              <a className="hover:text-fadedbrown" href="/bestsellers">
                 bestsellers
               </a>
             </li>

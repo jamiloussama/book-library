@@ -14,7 +14,7 @@ function Home() {
         </div>
             <BookCarousel />
       <div className="cta container flex flex-col sm:flex-row items-center font-primary justify-center py-12">
-      <Link className="border-2 border-primary font-semibold block py-3 m-2 w-72 hover:drop-shadow-xl bg-bgcolor" to="/">discover recommendations</Link>
+      <Link className="border-2 border-primary font-semibold block py-3 m-2 w-72 hover:drop-shadow-xl bg-bgcolor" to="/bestsellers">discover the best sellers</Link>
       <Link className="border-2 border-primary font-semibold block py-3 m-2 w-72 hover:drop-shadow-xl bg-secondary" to="/search">search for books</Link>
       </div>
       
