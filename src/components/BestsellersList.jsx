@@ -26,7 +26,7 @@ function BestsellersList() {
   {years.map((year) => (
     <button
       key={year}
-      className={`border-2 border-primary py-2 px-3 text-lg font-semibold ${
+      className={`border-2 border-primary py-2 px-3 my-2 text-lg font-semibold ${
         selectedYear === year
           ? "bg-primary text-white" // Selected button
           : "border-primary text-primary hover:bg-primary hover:text-white"

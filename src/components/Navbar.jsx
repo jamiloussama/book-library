@@ -6,6 +6,7 @@ import AccountCircleIcon from "@mui/icons-material/AccountCircleOutlined";
 import MenuIcon from "@mui/icons-material/Menu";
 import CloseIcon from '@mui/icons-material/Close';
 import { Link } from "react-router-dom";
+import Logo from "../../public/book.png"
 
 function Navbar() {
   // State to track menu visibility
@@ -32,25 +33,18 @@ function Navbar() {
               <Link className="hover:text-fadedbrown" to="/search">search</Link>
             </li>
             <li>
-              <a className="hover:text-fadedbrown" href="/bestsellers">
+              <Link className="hover:text-fadedbrown" to="/bestsellers">
                 bestsellers
-              </a>
+              </Link>
             </li>
-            <li>
-              <a className="hover:text-fadedbrown" href="#">
-                recent
-              </a>
-            </li>
+            
           </ul>
         </li>
          {/* Icons including menu toggle */}
         <li className="flex items-center gap-2">
-          <a className="hover:text-fadedbrown" href="#">
-            <SearchIcon />
-          </a>
-          <a className="hover:text-fadedbrown" href="#">
-            <AccountCircleIcon />
-          </a>
+          <Link className="hover:text-fadedbrown" to="/">
+            <img className="w-6" src={Logo} />
+          </Link>
           <button className="md:hidden" onClick={toggleMenu}>
           {isMenuOpen ? <CloseIcon /> : <MenuIcon />}
           </button>
@@ -66,15 +60,11 @@ function Navbar() {
               <Link className="hover:text-fadedbrown" to="/search">search</Link>
             </li>
           <li>
-            <a className="hover:text-fadedbrown" href="#">
+            <Link className="hover:text-fadedbrown" to="/bestsellers">
               bestsellers
-            </a>
+            </Link>
           </li>
-          <li>
-            <a className="hover:text-fadedbrown" href="#">
-              recent
-            </a>
-          </li>
+
         </ul>
       )}
     </nav>

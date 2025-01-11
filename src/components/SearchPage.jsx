@@ -26,7 +26,7 @@ function SearchPage() {
   const fetchBooks = async () => {
     // Return early if query is empty
     if (!query.trim()) {
-        setError("Please enter a search query.");
+        setError("Search for books by title, author, ISBN or keywords");
         setBooks([]);
         return;
       }
@@ -95,7 +95,7 @@ function SearchPage() {
 
       {/* Error Message */}
       {error && (
-        <div className="text-xl font-primary text-primary text-red-500 font-semibold text-center py-4">
+        <div className="text-xl font-primary text-primary text-red-900 font-semibold text-center py-4">
           {error}
         </div>
       )}
