@@ -1,5 +1,5 @@
-import Slider from "../assets/images/slider-homepage.png";
 import { Link } from "react-router-dom";
+import BookCarousel from "./BookCarousel";
 
 function Home() {
   return (
@@ -12,8 +12,7 @@ function Home() {
         discover our selection from top recommended books and find your match
       </p>
         </div>
-      
-      <img className="w-full" src={Slider}/>
+            <BookCarousel />
       <div className="cta container flex items-center font-primary justify-center py-12">
       <Link className="border-2 border-primary font-semibold block py-3 m-2 w-72 hover:drop-shadow-xl bg-bgcolor" to="/">discover recommendations</Link>
       <Link className="border-2 border-primary font-semibold block py-3 m-2 w-72 hover:drop-shadow-xl bg-secondary" to="/search">search for books</Link>
