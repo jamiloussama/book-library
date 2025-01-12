@@ -26,10 +26,7 @@ function BookCard({ title, authors, publisher, coverId, bookDetails , onClick })
       <div className="bookdescprition flex flex-col justify-between w-52 px-3 pt-4 pb-2 text-sm">
         <div className="topinfo">
           <h3 className="text-2xl text-primary font-bold pb-2">{title}</h3>
-          <p>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus
-            ac tempor magna, et scelerisque massa.
-          </p>
+          
         </div>
         <div className="bottominfo">
           <ul>
